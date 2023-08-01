@@ -1,13 +1,3 @@
 {
-  "blogs": [
-    {
-      "title": "test",
-      "avatar_url": "http://localhost:3000/blogs",
-      "category": "cattest",
-      "blog_post": "helloe world\n",
-      "likes": 0,
-      "comments": [],
-      "id": 1
-    }
-  ]
+  "blogs": []
 }
